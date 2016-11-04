@@ -1,0 +1,52 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>页面找不到了(×_×)</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+body{background:#faf9f5;margin:0;}
+#box404{margin:0 auto;width:980px;height:596px;background: url(http://www.cxdq.com/images/404_bg2.png) 0 0 no-repeat;position: relative;}
+#box404-home,#yuwen,#shuxue,#yingyu{width: 60px;text-align: center;font-size: 14px;color: #fff;position:absolute;top:190px;display: block;text-decoration: none;cursor: pointer;outline: none;}
+#box404-home{left:466px;}
+#yuwen{left: 542px;}
+#shuxue{left: 618px;}
+#yingyu{left: 694px;}
+#box404-home .box_img,#yuwen .box_img,#shuxue .box_img,#yingyu .box_img{width: 60px;height: 36px;background: url(http://www.cxdq.com/images/404_icon1.png) no-repeat;}
+#box404-home .box_img{background-position: 0 0;}
+#yuwen .box_img{background-position: -60px 0;}
+#shuxue .box_img{background-position: -120px 0;}
+#yingyu .box_img{background-position: -180px 0;}
+#box404-home:hover,#yingyu:hover{color:#fdc035;}
+#yuwen:hover{color:#3ac1a0;}
+#shuxue:hover{color:#6699ff;}
+#box404-home:hover .box_img{background-position: 0 -36px;}
+#yuwen:hover .box_img{background-position: -60px -36px;}
+#shuxue:hover .box_img{background-position: -120px -36px;}
+#yingyu:hover .box_img{background-position: -180px -36px;}
+#box404 span{line-height: 26px;}
+#footer{height:100px;width:100%;color:#999;font-size:12px;font-family:"宋体,Tahoma";}
+#footer .footer-cnt{width:980px;margin:auto;text-align:center;padding-top:40px;}
+#footer a{color:#999;}
+html,body,.wrapper{height:100%;min-width:980px;} 
+body > .wrapper{height:auto;min-height:100%;}
+#box404{position:relative;padding-bottom:100px;}
+#footer{position:relative;margin-top:-100px;_float:left;}
+</style>
+</head>
+<body>
+	<div class="wrapper">
+		 <div id="box404">
+		 	<a id="box404-home" href="http://www.cxdq.com/gaoxiaotupian/index.htm" target="_self"><div class="box_img"></div><span>搞笑图片</span></a>
+			<a id="yuwen" href="http://www.cxdq.com/xiaohua/index.htm" target="_self"><div class="box_img"></div><span>笑话大全</span></a>
+			<a id="shuxue" href="http://www.cxdq.com/class/qqtupian/index.htm" target="_self"><div class="box_img"></div><span>QQ表情</span></a>
+			<a id="yingyu" href="http://www.cxdq.com/class/mnxz/index.htm" target="_self"><div class="box_img"></div><span>美女图片</span></a>
+		</div>
+	</div>
+	<div id="footer">
+		<div class="footer-cnt">苏ICP备05000454号<br />搞笑图片 Copyright © 2004-2016 All Rights Reserved</div>
+	</div>
+</body>
+</html>

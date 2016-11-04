@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="nl"> <![endif]-->
+		<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="nl"> <![endif]-->
+		<!--[if IE 8]>    <html class="no-js lt-ie9" lang="nl"> <![endif]-->
+		<!--[if gt IE 8]><!--> <html class="no-js" lang="nl"> <!--<![endif]-->
+<head>
+
+<meta charset="utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2016 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+
+
+<title>Schooltv</title>
+<meta name="viewport" content="width=1000" />
+<meta name="author" content="Omroep NTR" />
+<meta property="og:url" content="http://www.schooltv.nl/?redirect=schooltv" />
+<meta property="og:site_name" content="NTR Schooltv" />
+<meta property="fb:admins" content="121213737943089" />
+<link sizes="57x57" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-57x57.png?v=ngg42Xr8QA" />
+<link sizes="60x60" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-60x60.png?v=ngg42Xr8QA" />
+<link sizes="72x72" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-72x72.png?v=ngg42Xr8QA" />
+<link sizes="76x76" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-76x76.png?v=ngg42Xr8QA" />
+<link sizes="114x114" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-114x114.png?v=ngg42Xr8QA" />
+<link sizes="120x120" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-120x120.png?v=ngg42Xr8QA" />
+<link sizes="144x144" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-144x144.png?v=ngg42Xr8QA" />
+<link sizes="152x152" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-152x152.png?v=ngg42Xr8QA" />
+<link sizes="180x180" rel="apple-touch-icon-precomposed" href="/resources/images/apple-touch-icon-180x180.png?v=ngg42Xr8QA" />
+<link sizes="32x32" rel="icon" href="/resources/images/favicon-32x32.png?v=ngg42Xr8QA" type="image/png" />
+<link sizes="194x194" rel="icon" href="/resources/images/favicon-194x194.png?v=ngg42Xr8QA" type="image/png" />
+<link sizes="96x96" rel="icon" href="/resources/images/favicon-96x96.png?v=ngg42Xr8QA" type="image/png" />
+<link sizes="16x16" rel="icon" href="/resources/images/favicon-16x16.png?v=ngg42Xr8QA" type="image/png" />
+<link sizes="192x192" rel="icon" href="/resources/images/android-chrome-192x192.png?v=ngg42Xr8QA" type="image/png" />
+<link rel="manifest" href="/resources/images/manifest.json?v=ngg42Xr8QA" />
+<link color="#5bbad5" rel="mask-icon" href="/resources/images/safari-pinned-tab.svg?v=ngg42Xr8QA" />
+<link rel="shortcut icon" href="/resources/images/favicon.ico?v=ngg42Xr8QA" />
+<meta name="msapplication-TileColor" content="#9f00a7" />
+<meta name="msapplication-TileImage" content="/resources/images/mstile-144x144.png?v=ngg42Xr8QA" />
+<meta name="msapplication-config" content="/resources/images/browserconfig.xml?v=ngg42Xr8QA" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="generator" content="TYPO3 CMS" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/compressor/merged-19ddec51ff748acf1b24ad8736fecd11-15e540986ab770e1cddf56f4d68fb54b.css?1462780280" media="all" />
+<link rel="stylesheet" type="text/css" href="http://evp.npoplayer.omroep.nl/enriched-video-plugin.css" media="all" />
+
+
+
+<script src="/typo3temp/compressor/merged-a0e690d49a0ce807e566eb4759a8516f-968c04985f6b9c6b39ee8ff853859efe.js?1462780280" type="text/javascript"></script>
+
+
+<meta property="og:title" content="Schooltv" />
+<meta name="description" content="Schooltv.nl is een videodatabase, gevuld met educatieve en informatieve videoclips, filmpjes, fragmenten, liedjes, animaties, lesvideo’s afleveringen, TV-programma’s, televisieseries, videoverzamelingen en afspeellijsten. Alle video’s zijn afkomstig van de Publieke Omroep (NPO), met name van de..." />
+<meta property="og:description" content="Schooltv.nl is een videodatabase, gevuld met educatieve en informatieve videoclips, filmpjes, fragmenten, liedjes, animaties, lesvideo’s afleveringen, TV-programma’s, televisieseries, videoverzamelingen en afspeellijsten. Alle video’s zijn afkomstig van de Publieke Omroep (NPO), met name van de..." />
+<meta name="keywords" content="Schooltv, School, Klas, Kinderen, Les, Onderwijs, Educatie, Leerzaam, Leuk, Omroep, NPO, NTR, Het Klokhuis, Sesamstraat, Huisje Boompje Beestje, Koekeloere, Zapp Weekjournaal, de Buitendienst, Vroeger en Zo, Histoclips, Geoclips, Biobits, In de klas, Schooltvbeeldbank, Beeldbank, Eigenwijzer, Film, Filmpje, Video, Lesvideo, Aflevering, televisie, kinderprogramma, TV-serie, geschiedenis, aardrijkskunde, wetenschap." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://www.schooltv.nl/resources/images/og-image.png" />
+
+<script type="text/javascript" src="/typo3temp/vhs-assets-DeviceDetect-Modernizr.js?1478191026"></script>
+<script type="text/javascript">
+		var SCHOOLTV_API_URL = 'https://api.schooltv.nl/v1';
+	</script>
+<script type="text/javascript">
+// <![CDATA[
+function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+// ]]>
+</script>
+<script type="text/javascript" src="http://www.ntr.nl/static/js/softclick.min.js"></script>
+<link rel="stylesheet" href="//cookiesv2.publiekeomroep.nl/static/css/npo_cc_styles.css" />
+</head>
+<body>
+
+	
+
+	
+
+	
+
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+	
+
+	
+	
+	
+	
+
+
+	
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+	
+
+	
+	
+
+	
+<!--END SITE INTERCEPT-->
+
+	
+	
+
+
+<div class="Page-Microdata" vocab="http://schema.org/" typeof="WebPage">
+	
+
+
+
+<!-- Begin comScore Inline Tag 1.1302.13 -->
+<script type="text/javascript">
+var code = 'http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?name=schooltv.home&c1=2&c2=17827132&ns_site=po-totaal&potag1=schooltv&potag2=schooltv&potag3=ntr&potag4=ntr&potag5=themaportal&potag6=geen&potag7=geen&potag8=site&potag9=site&ntr_genre=jeugd';
+udm_(code);
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?name=schooltv.home&amp;c1=2&amp;c2=17827132&amp;ns_site=po-totaal&amp;potag1=schooltv&amp;potag2=schooltv&amp;potag3=ntr&amp;potag4=ntr&amp;potag5=themaportal&amp;potag6=geen&amp;potag7=geen&amp;potag8=site&amp;potag9=site&amp;ntr_genre=jeugd" height="1" width="1" alt="*" /></p></noscript>
+<script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/17827132/cs.js"></script>
+<!-- End comScore Inline Tag -->
+
+
+<!-- Begin comScore Sitestat old version -->
+<script type="text/plain" class="npo_cc_inline_analytics">
+var code = '//nl.sitestat.com/klo/ntr/s?ntr.schooltv.portal.home&category=schooltv&ns_webdir=schooltv&ns_channel=nieuws_informatie&po_source=fixed&po_sitetype=plus&po_merk=overig&ntr_genre=educatie';
+udm_(code);
+</script>
+<noscript><p><img src="//nl.sitestat.com/klo/ntr/s?ntr.schooltv.portal.home&amp;category=schooltv&amp;ns_webdir=schooltv&amp;ns_channel=nieuws_informatie&amp;po_source=fixed&amp;po_sitetype=plus&amp;po_merk=overig&amp;ntr_genre=educatie" height="1" width="1" alt="*" /></p></noscript>
+<!-- End  comScore Sitestat old version -->
+
+	<div class="Page">
+		<div id="SI_8GNAbcokqOvJK7j"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<header class="PageHeader">
+	<div class="Container u-nbfc">
+		<div class="ZappContainer u-pullRight">
+			<a href="http://www.zapp.nl/?ns_campaign=meerzapp&amp;ns_mchannel=omroep&amp;ns_source=ntr&amp;ns_linkname=button" target="_blank"><img src="/resources/images/zapp-knop.png" alt="Ontdek Zapp" /></a>
+		</div>
+		<div class="Nav Nav--user u-textRight" typeof="SiteNavigationElement">
+			<ul class="List List--inline">
+				<li class="List-item">
+					<a data-url="/mijnschooltv/uitloggen/" data-text="Uitloggen" class="Nav-link js-mijnschooltv-shortcut" href="/mijnschooltv/inloggen/">Inloggen</a>
+				</li>
+				<li class="List-item">
+					<a href="http://www.schooltvwebshop.nl/" target="_blank" class="Nav-link">Webwinkel</a>
+				</li>
+				
+			</ul>
+		</div>
+		<div typeof="Brand">
+			<a property="logo" href="/home/" class="Logo u-pullLeft">NTR Educatieportal</a>
+		</div>
+		<nav class="Nav Nav--main" typeof="SiteNavigationElement">
+			<ul class="List List--inline"><li class="List-item-mainmenu"><a href="/home/" class="Nav-link">Home</a></li><li class="List-item-mainmenu"><a href="/categorieen/" class="Nav-link">Categorieën</a></li><li class="List-item-mainmenu"><a href="/tv-programmas/" class="Nav-link">Programma's</a></li><li class="List-item-mainmenu"><a href="/themas/" class="Nav-link">Thema's</a></li><li class="List-item-mainmenu"><a href="/in-de-klas/" class="Nav-link">Voor het VO</a></li></ul>
+		</nav>
+
+		<div class="Form PageHeader-searchForm u-bgcolorPrimary">
+			
+
+
+
+<div class="tx-ntr-media">
+	
+	<form class="SearchForm js-searchForm" method="get" action="/zoekresultaten/">
+		<input id="searchField" class="Form-input Form-input--rounded Form-input--wide js-searchInput" name="q" type="text" value="" placeholder="Ik zoek een video over..." />
+
+		<button class="Button Button--icon u-colorPrimary" type="submit">
+			<i class="Button-icon Icon Icon--standalone Icon--search"></i>
+			<span class="u-textHideAccessibly">Zoeken</span>
+		</button>
+	</form>
+
+	<div class="cancelSearchPosition">
+		<a href="#">
+			<img class="cancelSearch" src="/resources/images/cancel_button.png" width="26" height="26" alt="x" />
+		</a>
+	</div>
+
+</div>
+
+
+
+
+			<div class="js-mijnschooltv-dropdown"></div>
+
+<script id="templateMijnSchooltvDropdown" type="text/x-handlebars-template">
+	<ul class="userProfile">
+		{{#if user}}
+			<li class="user userCollapse firstMenuitem js-mijnschooltv-dropdown-trigger">
+				<a href="#" id="user" class="u-textTruncate">
+					<i class="Icon Icon--user"></i>
+					{{#if user.name}}
+						<span>{{user.name}}</span>
+					{{else}}
+						<span>{{user.email}}</span>
+					{{/if}}
+					<img class="toggleUsermenu js-mijnschooltv-dropdown-arrow" src="/resources/images/key-down.png" alt="gebruikersmenu" />
+				</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-favorieten/">Mijn favorieten<span class="number">{{favourites}}</span></a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-bekeken-videos/">Mijn bekeken video&rsquo;s<span class="number">{{mostRecent}}</span></a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-afspeellijsten/">Mijn afspeellijsten<span class="number">{{myPlaylists}}</span></a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-instellingen/">Mijn instellingen</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target lastMenuitem">
+				<a href="/mijnschooltv/uitloggen/">Uitloggen</a>
+			</li>
+		{{else}}
+			<li class="user userCollapse firstMenuitem js-mijnschooltv-dropdown-trigger">
+				<a href="#" id="user">
+					<i class="Icon Icon--user"></i>
+					<span>Mijn Schooltv</span>
+					<img class="toggleUsermenu js-mijnschooltv-dropdown-arrow" src="/resources/images/key-down.png" alt="gebruikersmenu" />
+				</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-favorieten/">Mijn favorieten</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/mijn-bekeken-videos/">Mijn bekeken video&rsquo;s</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target middleMenuitem">
+				<a href="/mijnschooltv/registreren/">Profiel aanmaken</a>
+			</li>
+			<li class="userMenu js-mijnschooltv-dropdown-target lastMenuitem">
+				<a href="/mijnschooltv/inloggen/">Inloggen</a>
+			</li>
+		{{/if}}
+	</ul>
+</script>
+
+		</div>
+	</div>
+</header>
+
+		<div id="redirectedOverlay" class="Overlay" style="display: none;">
+	<div class="Overlay-mask"></div>
+	<div class="Overlay-content">
+		<div class="popupBlock">
+			<p id="RedirectSchooltv" style="display:none;">
+				Schooltv.nl is vernieuwd. Op de nieuwe site vind je alle beschikbare educatieve videocontent van de NTR. Zoek in onze snelle zoekmachine en gebruik onze leeftijdsfilters en vind de video die je wilt bekijken.
+			</p>
+			<p id="RedirectEigenwijzer" style="display:none;">
+				Eigenwijzer.nl is niet langer beschikbaar. De content is nog wel te vinden op de nieuwe Schooltv.nl. Zoek in onze snelle zoekmachine en gebruik onze leeftijdsfilters (13 – 15 jaar en/of 16 – 18 jaar) op zoek naar de content die je wilt gebruiken.
+			</p>
+			<div class="u-textCenter u-textSmall u-marginTl">
+				<button type="button" class="Button Button--wide Button--blue u-marginBm js-overlayClose">Ga verder</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<div id="confirmationMessage" class="Overlay" style="display: none;">
+	<div class="Overlay-mask"></div>
+	<div class="Overlay-content">
+		<div class="popupBlock u-size450">
+			<p class="u-textCenter js-confirmMessageText">
+			</p>
+			<div class="u-textCenter u-textSmall u-marginTl">
+				<button type="button" class="Button Button--wide Button--blue u-marginBm js-overlayClose">Nee</button>
+				<button type="button" class="Button Button--wide Button--blue u-marginBm js-confirmMessage">Ja</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<div class="PageContent PageContent--image">
+			<div class="Container">
+				
+	<div id="c21" class="csc-default">
+
+
+
+<div class="tx-ntr-media">
+	
+
+	<div class="Grid">
+
+		<div class="Grid-cell u-size1of4">
+			
+				<div class="MediaBox MediaBox--stacked SearchResult SearchResult--medium">
+					
+
+
+		
+				
+			
+	
+
+<a class="MediaBox-image" href="/video/huisje-boompje-beestje-zeep/">
+	
+			<img alt="Wat doet Raaf nou met de zeep?" src="/files/_processed_/csm_hbb_zeep_3171ce9990.jpg" width="235" height="158" />
+		
+	
+		<span class="MediaBox-imageBadge MediaBox-imageBadge--top Badge u-size1of2 u-bgcolorTertiary u-colorQuaternary u-textSmall u-textNoWrap Semi-transparent">Techniek</span>
+	
+	
+			<span class="MediaBox-imageBadge MediaBox-imageBadge--bottom Badge Badge--auto u-textSmall u-bgcolorQuaternary u-textNoWrap u-colorGrey">
+
+
+15:00</span>
+		
+</a>
+<div class="MediaBox-body">
+	<h3 class="SearchResult-title"><a href="/video/huisje-boompje-beestje-zeep/">Wat doet Raaf nou met de zeep?</a></h3>
+	
+			
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+		
+</div>
+
+				</div>
+			
+				<div class="MediaBox MediaBox--stacked SearchResult SearchResult--medium">
+					
+
+
+		
+				
+			
+	
+
+<a class="MediaBox-image" href="/video/hoe-jaagt-een-leeuw-verstoppen-en-samenwerken/">
+	
+			<img alt="Hoe jaagt een leeuw?" src="/files/_processed_/csm_clip_hoe_jaagt_een_leeuw_1d0ee2ea5a.jpg" width="235" height="158" />
+		
+	
+		<span class="MediaBox-imageBadge MediaBox-imageBadge--top Badge u-size1of2 u-bgcolorTertiary u-colorQuaternary u-textSmall u-textNoWrap Semi-transparent">Natuur</span>
+	
+	
+			<span class="MediaBox-imageBadge MediaBox-imageBadge--bottom Badge Badge--auto u-textSmall u-bgcolorQuaternary u-textNoWrap u-colorGrey">
+
+
+03:46</span>
+		
+</a>
+<div class="MediaBox-body">
+	<h3 class="SearchResult-title"><a href="/video/hoe-jaagt-een-leeuw-verstoppen-en-samenwerken/">Hoe jaagt een leeuw?</a></h3>
+	
+			
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 Badge-wide u-textBold"> 7-8 jaar</div>
+					
+			
+		
+</div>
+
+		
+</div>
+
+				</div>
+			
+		</div>
+
+		<div class="Grid-cell u-size2of4">
+
+			<div class="MediaBox MediaBox--stacked SearchResult SearchResult--large">
+				
+					
+
+
+		
+				
+			
+	
+
+<a class="MediaBox-image" href="/video/vroege-vogels-in-de-klas-het-naardermeer/#autoplay">
+	
+			<img alt="Wat leeft er in het Naardermeer?" src="/files/_processed_/csm_vroegevogelsindeklas_naardermeer_2d249944b0.jpg" width="480" height="300" />
+		
+	
+		<div class="ImageOverlay u-posAbsolute"><i class="Icon Icon--play-circled2 Transparent"></i></div>
+	
+	
+		<span class="MediaBox-imageBadge MediaBox-imageBadge--top Badge Badge--auto u-bgcolorTertiary u-colorQuaternary u-textSmall u-textNoWrap Semi-transparent">Biologie</span>
+	
+	
+			<span class="MediaBox-imageBadge MediaBox-imageBadge--bottom Badge Badge--auto u-textSmall u-bgcolorQuaternary u-textNoWrap u-colorGrey">
+
+
+05:48</span>
+		
+</a>
+<div class="MediaBox-body">
+	<h1 class="SearchResult-title u-marginBn u-colorTertiary">
+		<a href="/video/vroege-vogels-in-de-klas-het-naardermeer/">Wat leeft er in het Naardermeer?</a>
+	</h1>
+	<h2 class="SearchResult-subtitle u-textDefault u-colorGrey">Vroege Vogels in de klas</h2>
+	<div class="SearchResult-description u-textSmall u-colorGrey">Het Naardermeer is een groot natuurgebied tussen Hilversum en Amsterdam. Het is het eerste beschermde natuurgebied van Nederland. Water maakt een belangrijk deel uit van het gebied. Bijzondere diersoorten die er voorkomen zijn de knut, de aalscholver en verschillende libellen.</div>
+	
+			
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 Badge-wide u-textBold"> 13-15 jaar</div>
+					
+			
+		
+</div>
+
+		
+</div>
+
+				
+			</div>
+
+		</div>
+
+		<div class="Grid-cell u-size1of4">
+
+			
+				<div class="MediaBox MediaBox--stacked SearchResult SearchResult--medium">
+					
+
+
+		
+				
+			
+	
+
+<a class="MediaBox-image" href="/video/aardbevingen-waardoor-ontstaan-ze/">
+	
+			<img alt="Hoe ontstaat een aardbeving?" src="/files/_processed_/csm_aardbevingen_e3869c19ee.jpg" width="235" height="158" />
+		
+	
+		<span class="MediaBox-imageBadge MediaBox-imageBadge--top Badge u-size1of2 u-bgcolorTertiary u-colorQuaternary u-textSmall u-textNoWrap Semi-transparent">Bij het nieuws</span>
+	
+	
+			<span class="MediaBox-imageBadge MediaBox-imageBadge--bottom Badge Badge--auto u-textSmall u-bgcolorQuaternary u-textNoWrap u-colorGrey">
+
+
+02:04</span>
+		
+</a>
+<div class="MediaBox-body">
+	<h3 class="SearchResult-title"><a href="/video/aardbevingen-waardoor-ontstaan-ze/">Hoe ontstaat een aardbeving?</a></h3>
+	
+			
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 u-textBold"> 9-12 </div>
+					
+			
+		
+</div>
+
+		
+</div>
+
+				</div>
+			
+				<div class="MediaBox MediaBox--stacked SearchResult SearchResult--medium">
+					
+
+
+		
+				
+			
+	
+
+<a class="MediaBox-image" href="/video/rauwkost-wat-is-duurzame-kleding/">
+	
+			<img alt="Wat is duurzame kleding?" src="/files/_processed_/csm_rauwkost_duurzame_kleding_cd4b6a48d9.jpg" width="235" height="158" />
+		
+	
+		<span class="MediaBox-imageBadge MediaBox-imageBadge--top Badge u-size1of2 u-bgcolorTertiary u-colorQuaternary u-textSmall u-textNoWrap Semi-transparent">Rauwkost</span>
+	
+	
+			<span class="MediaBox-imageBadge MediaBox-imageBadge--bottom Badge Badge--auto u-textSmall u-bgcolorQuaternary u-textNoWrap u-colorGrey">
+
+
+04:59</span>
+		
+</a>
+<div class="MediaBox-body">
+	<h3 class="SearchResult-title"><a href="/video/rauwkost-wat-is-duurzame-kleding/">Wat is duurzame kleding?</a></h3>
+	
+			
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+		
+</div>
+
+				</div>
+			
+
+		</div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+	<div id="c22" class="csc-default">
+
+
+
+<div class="tx-ntr-media">
+	
+	<div class="ProgramDisplay js-programDisplay">
+
+		<span class="u-textMedium">Programma's op Schooltv</span>
+
+		<ul id="Groups" class="List List--inlineNarrow u-posRelative u-pullRight ">
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-1" class="AgeGroup-Tips passive js-programDisplay-trigger">Tips</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-2" class="AgeGroup-0-4 passive js-programDisplay-trigger">0-4</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-3" class="AgeGroup-5-6 passive js-programDisplay-trigger">5-6</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-4" class="AgeGroup-7-8 passive js-programDisplay-trigger">7-8</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-5" class="AgeGroup-9-12 passive js-programDisplay-trigger">9-12</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-6" class="AgeGroup-13-15 passive js-programDisplay-trigger">13-15</a>
+				</li>
+			
+				<li class="List-item AgeGroup u-textBold">
+					<a href="#" id="displayGroup-7" class="AgeGroup-16-18 passive js-programDisplay-trigger">16-18</a>
+				</li>
+			
+		</ul>
+
+		<div id="groupContent" class="Grid Grid--spacedSmall">
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-1">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/sesamstraat/">
+									
+											<img alt="Sesamstraat" src="http://images.poms.omroep.nl/image/s180/c180x101/784520.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Sesamstraat</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 Badge-wide u-textBold"> 0-4 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/apennoten/">
+									
+											<img alt="Apennoten" src="http://images.poms.omroep.nl/image/s180/c180x101/743447.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Apennoten</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 Badge-wide u-textBold"> 5-6 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/meer-muziek-in-de-klas/">
+									
+											<img alt="Meer Muziek in de Klas" src="http://images.poms.omroep.nl/image/s180/c180x101/812166.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Meer Muziek in de Klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 u-textBold"> 9-12 </div>
+					
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/het-klokhuis/">
+									
+											<img alt="Het Klokhuis" src="http://images.poms.omroep.nl/image/s180/c180x101/650066.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Het Klokhuis</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/nederland-van-boven-in-de-klas/">
+									
+											<img alt="Nederland van boven in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/782277.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Nederland van boven in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-2">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/sesamstraat/">
+									
+											<img alt="Sesamstraat" src="http://images.poms.omroep.nl/image/s180/c180x101/784520.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Sesamstraat</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 Badge-wide u-textBold"> 0-4 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/het-zandkasteel/">
+									
+											<img alt="Het Zandkasteel" src="http://images.poms.omroep.nl/image/s180/c180x101/647635.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Het Zandkasteel</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 Badge-wide u-textBold"> 0-4 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/aap-poot-pies/">
+									
+											<img alt="AAP POOT PIES" src="http://images.poms.omroep.nl/image/s180/c180x101/808050.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">AAP POOT PIES</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 u-textBold"> 0-4 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/hoelahoep/">
+									
+											<img alt="HoelaHoep" src="http://images.poms.omroep.nl/image/s180/c180x101/5099.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">HoelaHoep</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 u-textBold"> 0-4 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/zing-met-ons-mee-annie-mg/">
+									
+											<img alt="Zing met ons mee: Annie M.G." src="http://images.poms.omroep.nl/image/s180/c180x101/422156.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Zing met ons mee: Annie M.G.</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+				<span property="typicalAgeRange" content="0-4"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-0-4 u-textBold"> 0-4 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-3">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/koekeloere/">
+									
+											<img alt="Koekeloere" src="http://images.poms.omroep.nl/image/s180/c180x101/422116.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Koekeloere</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 Badge-wide u-textBold"> 5-6 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/apennoten/">
+									
+											<img alt="Apennoten" src="http://images.poms.omroep.nl/image/s180/c180x101/743447.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Apennoten</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 Badge-wide u-textBold"> 5-6 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/de-schatkast/">
+									
+											<img alt="De Schatkast" src="http://images.poms.omroep.nl/image/s180/c180x101/446378.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">De Schatkast</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 Badge-wide u-textBold"> 5-6 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/leesdas-lettervos-boekentas/">
+									
+											<img alt="Leesdas Lettervos Boekentas" src="http://images.poms.omroep.nl/image/s180/c180x101/425805.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Leesdas Lettervos Boekentas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/huisje-boompje-beestje/">
+									
+											<img alt="Huisje Boompje Beestje" src="http://images.poms.omroep.nl/image/s180/c180x101/368436.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Huisje Boompje Beestje</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-4">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/taal-met-timo-en-finne/">
+									
+											<img alt="Taal met Timo en Finne" src="http://images.poms.omroep.nl/image/s180/c180x101/358745.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Taal met Timo en Finne</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 Badge-wide u-textBold"> 7-8 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/het-sinterklaasjournaal/">
+									
+											<img alt="Het Sinterklaasjournaal" src="http://images.poms.omroep.nl/image/s180/c180x101/784071.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Het Sinterklaasjournaal</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/rekenen-met-raaf/">
+									
+											<img alt="Rekenen met Raaf" src="http://images.poms.omroep.nl/image/s180/c180x101/454420.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Rekenen met Raaf</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 Badge-wide u-textBold"> 7-8 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/huisje-boompje-beestje/">
+									
+											<img alt="Huisje Boompje Beestje" src="http://images.poms.omroep.nl/image/s180/c180x101/368436.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Huisje Boompje Beestje</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/studio-snugger/">
+									
+											<img alt="Studio Snugger" src="http://images.poms.omroep.nl/image/s180/c180x101/784078.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Studio Snugger</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="7-8"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-7-8 u-textBold"> 7-8 </div>
+					
+			
+				<span property="typicalAgeRange" content="5-6"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-5-6 u-textBold"> 5-6 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-5">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/de-buitendienst/">
+									
+											<img alt="De Buitendienst" src="http://images.poms.omroep.nl/image/s180/c180x101/800708.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">De Buitendienst</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/dokter-corrie/">
+									
+											<img alt="De Dokter Corrie Show" src="http://images.poms.omroep.nl/image/s180/c180x101/681703.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">De Dokter Corrie Show</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/het-klokhuis/">
+									
+											<img alt="Het Klokhuis" src="http://images.poms.omroep.nl/image/s180/c180x101/650066.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Het Klokhuis</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/zapp-weekjournaal-1/">
+									
+											<img alt="Zapp Weekjournaal" src="http://images.poms.omroep.nl/image/s180/c180x101/670324.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Zapp Weekjournaal</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/welkom-in-de-jaren-60/">
+									
+											<img alt="Welkom in de jaren 60" src="http://images.poms.omroep.nl/image/s180/c180x101/779994.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Welkom in de jaren 60</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="9-12"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-9-12 Badge-wide u-textBold"> 9-12 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-6">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/de-rekenkamer-in-de-klas/">
+									
+											<img alt="De Rekenkamer in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/665954.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">De Rekenkamer in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 Badge-wide u-textBold"> 13-15 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/galapagos-in-de-klas/">
+									
+											<img alt="Galapagos in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/684470.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Galapagos in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 Badge-wide u-textBold"> 13-15 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/nieuwsuur-in-de-klas/">
+									
+											<img alt="Nieuwsuur in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/418854.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Nieuwsuur in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/keuringsdienst-van-waarde-in-de-klas/">
+									
+											<img alt="Keuringsdienst van Waarde in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/558523.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Keuringsdienst van Waarde in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 Badge-wide u-textBold"> 13-15 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/3-op-reis-in-de-klas/">
+									
+											<img alt="3 Op Reis in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/524778.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">3 Op Reis in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 Badge-wide u-textBold"> 13-15 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+				<div class="DisplayGroup js-displayGroup js-displayGroup-7">
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/clipphanger/">
+									
+											<img alt="Clipphanger " src="http://images.poms.omroep.nl/image/s180/c180x101/424017.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Clipphanger </h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/tegenlicht-in-de-klas/">
+									
+											<img alt="Tegenlicht in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/508121.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Tegenlicht in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/de-ijzeren-eeuw-in-de-klas/">
+									
+											<img alt="De IJzeren Eeuw in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/580322.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">De IJzeren Eeuw in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/kunstuur-in-de-klas/">
+									
+											<img alt="Kunstuur in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/678098.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">Kunstuur in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 Badge-wide u-textBold"> 16-18 jaar</div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+						<div class="MediaBox Grid-cell Group-position js-menuDisplay">
+
+							<div class=" MediaBox-image">
+								<a href="/programma/eenvandaag-in-de-klas/">
+									
+											<img alt="EenVandaag in de klas" src="http://images.poms.omroep.nl/image/s180/c180x101/621213.jpg" height="101" width="180" />
+										
+								</a>
+							</div>
+
+							<div class="MediaBox-body">
+								<h3 class="SearchResult-title u-textSmall">EenVandaag in de klas</h3>
+								
+<div class="BadgeGroup u-cf">
+	
+	
+			
+				<span property="typicalAgeRange" content="16-18"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-16-18 u-textBold"> 16-18 </div>
+					
+			
+				<span property="typicalAgeRange" content="13-15"></span>
+				
+						<div class="Badge AgeGroup AgeGroup-13-15 u-textBold"> 13-15 </div>
+					
+			
+		
+</div>
+
+							</div>
+
+						</div>
+
+					
+
+				</div>
+
+			
+
+		</div>
+
+		<div class="u-textRight u-textSmall u-marginTl">
+			
+				<a href="/uitzendschema" onclick="ns_onclick(this, '', 'name=schooltv.home-content.uitzendschema&amp;c1=2&amp;c2=17827132&amp;ns_site=po-totaal&amp;potag1=schooltv&amp;potag2=schooltv&amp;potag3=ntr&amp;potag4=ntr&amp;potag5=themaportal&amp;potag6=geen&amp;potag7=geen&amp;potag8=site&amp;potag9=site&amp;ntr_genre=jeugd','clickin');return false;" target="_blank"><button type="button" class="Button Button--wide Button--blue u-marginBm">Naar het uitzendschema</button></a>
+			
+		</div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+			</div>
+		</div>
+	</div>
+	<footer class="PageFooter u-textCenter">
+	<div class="Container--footer" typeof="WPFooter">
+		<div class="Nav--footer" typeof="SiteNavigationElement">
+			<ul class="List List--inline"><li class="List-item"><a href="/help/" class="Nav-link">Help</a></li><li class="List-item"><a href="/nieuwsbrieven/" class="Nav-link">Nieuwsbrieven</a></li><li class="List-item"><a href="/contact/" class="Nav-link">Contact</a></li><li class="List-item"><a href="/colofon/" class="Nav-link">Colofon</a></li><li class="List-item"><a href="/disclaimer/" class="Nav-link">Disclaimer</a></li></ul>
+		</div>
+		<div class="Nav--footer" typeof="SiteNavigationElement">
+			<a class="Nav--socialmedia Icon Icon--facebook-circled Nav--socialmedia-left" target="_blank" href="/facebook/"><!-- facebook --></a>
+			<a class="Nav--socialmedia Icon Icon--twitter-circled" target="_blank" href="/twitter/"><!-- twitter --></a>
+			<a class="Nav--socialmedia Icon Icon--instagram-circled" target="_blank" href="/instagram/"><!-- instagram --></a>
+			<a class="Nav--mobile Icon Icon--mobile" target="_blank" href="/mobiel/"><!-- mobile site --></a>
+			<a class="Nav-link Logo-footer" href="http://www.ntr.nl" target="_blank"></a>
+		</div>
+	</div>
+</footer>
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+<script src="/resources/build/bundle.min.js?1472978519" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+})();
+</script>
+<script type="text/javascript" src="//cookiesv2.publiekeomroep.nl/data/script/cconsent-no-rw.min.js"></script>
+<script type="text/javascript" src="/typo3temp/vhs-assets-9c2a87599fe80c377dfc9898703af96f.js?1478237730"></script>
+</body>
+</html>
